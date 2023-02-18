@@ -21,6 +21,8 @@ public class CoreJavaVedioPage {
 		
 		@FindBy(xpath="//a[text()='X']")
 		private WebElement closePopup;
+
+		public Object web;
 		
 		
 		//Initiliazation

@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 import genericLiberies.BaseClass;
 
 public class FirstTest extends BaseClass {
-	
+	//skillary first test
 	@Test
 	public void firstTest()
 	{
